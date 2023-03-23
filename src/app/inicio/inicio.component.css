@@ -1,0 +1,47 @@
+#sectionbanner{
+    min-height: 400px;
+} 
+
+#sectionbanner img{
+    min-height: 200px;
+}
+
+
+h2{
+    padding: 20px;
+    font-size: 30px;
+    text-align: center ;
+}
+.example-card {
+    min-height: 500px;
+    background-color: rgb(243, 234, 222);
+  }
+  
+at-grid-list{
+    margin: 10px 0px;
+}
+
+mat-grid-tile{
+    padding: 2px;
+    border-radius: 50px;
+}
+ 
+mat-card-heade{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+mat-card-actions{
+    display: flex;
+    justify-content: space-between;
+}
+mat-card-actions p{
+    color: rgb(243, 133, 133);
+    font-size: 20px;
+}
+
+mat-card img{
+    height: 330px;
+    width: 330px;
+}

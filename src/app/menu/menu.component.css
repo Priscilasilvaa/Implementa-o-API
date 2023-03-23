@@ -1,0 +1,21 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+
+  span{
+    padding: 8px;
+  }
+
+img{
+    height: 50px;
+}
+  
+.menu{
+  background-color: antiquewhite;
+}
+
+a{
+  text-decoration: none;
+  color: #ffffff;
+}

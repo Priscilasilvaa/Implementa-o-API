@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "jogo1",
+      "descrição": "descricao1",
+      "foto": "jogo1.PNG",
+      "preço": "200"
+    },
+    {
+      "id": 2,
+      "produto": "jogo2",
+      "descrição": "descricao2",
+      "foto": "jogo2.jpeg",
+      "preço": "350"
+    },
+    {
+      "id": 3,
+      "produto": "console",
+      "descrição": "console",
+      "foto": "console1.jpg",
+      "preço": "400"
+    },
+    {
+      "id": "4",
+      "produto": "jogo4",
+      "descrição": "descricao4",
+      "foto": "jogo4.jpeg",
+      "preço": "250"
+    }
+  ]
+}
